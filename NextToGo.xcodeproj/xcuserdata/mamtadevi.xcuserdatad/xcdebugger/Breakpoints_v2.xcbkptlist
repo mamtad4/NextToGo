@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DEB31F53-5E60-4038-BB0A-EDD5FA8A1862"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1067595E-933D-4049-B2C0-A7D7C4D73C45"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NextToGo/NextToGoApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "1067595E-933D-4049-B2C0-A7D7C4D73C45 - 59f574f6cfedb07a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in NextToGo.NextToGoApp.body.getter : some"
+                  moduleName = "NextToGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamtadevi/Documents/Mamta/Projects/NextToGo/NextToGo/NextToGoApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  uuid = "1067595E-933D-4049-B2C0-A7D7C4D73C45 - 79b59a033d862014"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in NextToGo.NextToGoApp.body.getter : some"
+                  moduleName = "NextToGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamtadevi/Documents/Mamta/Projects/NextToGo/NextToGo/NextToGoApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "1067595E-933D-4049-B2C0-A7D7C4D73C45 - a9637caf03b0087e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in NextToGo.NextToGoApp.body.getter : some"
+                  moduleName = "NextToGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamtadevi/Documents/Mamta/Projects/NextToGo/NextToGo/NextToGoApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "1067595E-933D-4049-B2C0-A7D7C4D73C45 - bbaac73d16dfe2d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in NextToGo.NextToGoApp.body.getter : some"
+                  moduleName = "NextToGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamtadevi/Documents/Mamta/Projects/NextToGo/NextToGo/NextToGoApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "1067595E-933D-4049-B2C0-A7D7C4D73C45 - f91ef091d2e9c617"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in NextToGo.NextToGoApp.body.getter : some"
+                  moduleName = "NextToGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamtadevi/Documents/Mamta/Projects/NextToGo/NextToGo/NextToGoApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "1067595E-933D-4049-B2C0-A7D7C4D73C45 - 712c788ba5974c78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in NextToGo.NextToGoApp.body.getter : some"
+                  moduleName = "NextToGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamtadevi/Documents/Mamta/Projects/NextToGo/NextToGo/NextToGoApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "1067595E-933D-4049-B2C0-A7D7C4D73C45 - bbaac73d16dfe232"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in NextToGo.NextToGoApp.body.getter : some"
+                  moduleName = "NextToGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamtadevi/Documents/Mamta/Projects/NextToGo/NextToGo/NextToGoApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "1067595E-933D-4049-B2C0-A7D7C4D73C45 - f91ef091d2e9c6f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) await resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in NextToGo.NextToGoApp.body.getter : some"
+                  moduleName = "NextToGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamtadevi/Documents/Mamta/Projects/NextToGo/NextToGo/NextToGoApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "1067595E-933D-4049-B2C0-A7D7C4D73C45 - 712c788ba5974c9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in NextToGo.NextToGoApp.body.getter : some"
+                  moduleName = "NextToGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamtadevi/Documents/Mamta/Projects/NextToGo/NextToGo/NextToGoApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11B3BC0C-D309-4212-9BB5-F375BFE3781A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NextToGo/NextToGoApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "11B3BC0C-D309-4212-9BB5-F375BFE3781A - 94c39d22737d3b28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in NextToGo.NextToGoApp.body.getter : some"
+                  moduleName = "NextToGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamtadevi/Documents/Mamta/Projects/NextToGo/NextToGo/NextToGoApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "117">
+               </Location>
+               <Location
+                  uuid = "11B3BC0C-D309-4212-9BB5-F375BFE3781A - 94c39d22737d3b28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in NextToGo.NextToGoApp.body.getter : some"
+                  moduleName = "NextToGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamtadevi/Documents/Mamta/Projects/NextToGo/NextToGo/NextToGoApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "11B3BC0C-D309-4212-9BB5-F375BFE3781A - bbaac73d16dfe232"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in closure #1 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in NextToGo.NextToGoApp.body.getter : some"
+                  moduleName = "NextToGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamtadevi/Documents/Mamta/Projects/NextToGo/NextToGo/NextToGoApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44C717B1-1FBE-4056-876E-195507EB57FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NextToGo/ViewModel/RaceViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "refreshDataAfterOneMinute(recentRace:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "44C717B1-1FBE-4056-876E-195507EB57FB - 141cc9054525a0f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async throws -&gt; Swift.Optional&lt;()&gt; in closure #1 () -&gt; () in NextToGo.RaceViewModel.refreshDataAfterOneMinute(recentRace: NextToGo.RaceDataModel) -&gt; ()"
+                  moduleName = "NextToGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamtadevi/Documents/Mamta/Projects/NextToGo/NextToGo/ViewModel/RaceViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "44C717B1-1FBE-4056-876E-195507EB57FB - 229a409352880706"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async throws -&gt; Swift.Optional&lt;()&gt; in closure #1 () -&gt; () in NextToGo.RaceViewModel.refreshDataAfterOneMinute(recentRace: NextToGo.RaceDataModel) -&gt; ()"
+                  moduleName = "NextToGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamtadevi/Documents/Mamta/Projects/NextToGo/NextToGo/ViewModel/RaceViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "44C717B1-1FBE-4056-876E-195507EB57FB - 5a26f99bba1ee4f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async throws -&gt; Swift.Optional&lt;()&gt; in closure #1 () -&gt; () in NextToGo.RaceViewModel.refreshDataAfterOneMinute(recentRace: NextToGo.RaceDataModel) -&gt; ()"
+                  moduleName = "NextToGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamtadevi/Documents/Mamta/Projects/NextToGo/NextToGo/ViewModel/RaceViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "44C717B1-1FBE-4056-876E-195507EB57FB - 7f2be1db4cea46ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async throws -&gt; Swift.Optional&lt;()&gt; in closure #1 () -&gt; () in NextToGo.RaceViewModel.refreshDataAfterOneMinute(recentRace: NextToGo.RaceDataModel) -&gt; ()"
+                  moduleName = "NextToGo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamtadevi/Documents/Mamta/Projects/NextToGo/NextToGo/ViewModel/RaceViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
